@@ -1,0 +1,480 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nyu\\source\\repos\\Kursova\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|c:\\users\\nyu\\source\\repos\\kursova\\kursova\\models\\screening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|solutionrelative:kursova\\models\\screening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|c:\\users\\nyu\\source\\repos\\kursova\\kursova\\repositories\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|solutionrelative:kursova\\repositories\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|c:\\users\\nyu\\source\\repos\\kursova\\kursova\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|solutionrelative:kursova\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|c:\\users\\nyu\\source\\repos\\kursova\\kursova\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|solutionrelative:kursova\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|c:\\users\\nyu\\source\\repos\\kursova\\kursova\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|solutionrelative:kursova\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|c:\\users\\nyu\\source\\repos\\kursova\\kursova\\repositories\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|solutionrelative:kursova\\repositories\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|c:\\users\\nyu\\source\\repos\\kursova\\kursova\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|solutionrelative:kursova\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|c:\\users\\nyu\\source\\repos\\kursova\\kursova\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|solutionrelative:kursova\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|c:\\users\\nyu\\source\\repos\\kursova\\kursova\\models\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|solutionrelative:kursova\\models\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|c:\\users\\nyu\\source\\repos\\kursova\\kursova\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|solutionrelative:kursova\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|c:\\users\\nyu\\source\\repos\\kursova\\kursova\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|solutionrelative:kursova\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|c:\\users\\nyu\\source\\repos\\kursova\\kursova\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|solutionrelative:kursova\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|c:\\users\\nyu\\source\\repos\\kursova\\kursova\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|solutionrelative:kursova\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|c:\\users\\nyu\\source\\repos\\kursova\\kursova\\repositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|solutionrelative:kursova\\repositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|c:\\users\\nyu\\source\\repos\\kursova\\kursova\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|solutionrelative:kursova\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|c:\\users\\nyu\\source\\repos\\kursova\\kursova\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|solutionrelative:kursova\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|c:\\users\\nyu\\source\\repos\\kursova\\kursova\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|solutionrelative:kursova\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|c:\\users\\nyu\\source\\repos\\kursova\\kursova\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|solutionrelative:kursova\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|c:\\users\\nyu\\source\\repos\\kursova\\kursova\\controllers\\screeningscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|solutionrelative:kursova\\controllers\\screeningscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|c:\\users\\nyu\\source\\repos\\kursova\\kursova\\services\\screeningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|solutionrelative:kursova\\services\\screeningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|c:\\users\\nyu\\source\\repos\\kursova\\kursova\\repositories\\iscreeningrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|solutionrelative:kursova\\repositories\\iscreeningrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|c:\\users\\nyu\\source\\repos\\kursova\\kursova\\repositories\\screeningrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|solutionrelative:kursova\\repositories\\screeningrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|c:\\users\\nyu\\source\\repos\\kursova\\kursova\\services\\hallservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|solutionrelative:kursova\\services\\hallservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|c:\\users\\nyu\\source\\repos\\kursova\\kursova\\repositories\\hallrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|solutionrelative:kursova\\repositories\\hallrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|c:\\users\\nyu\\source\\repos\\kursova\\kursova\\repositories\\ihallrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|solutionrelative:kursova\\repositories\\ihallrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|c:\\users\\nyu\\source\\repos\\kursova\\kursova\\controllers\\hallcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|solutionrelative:kursova\\controllers\\hallcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|c:\\users\\nyu\\source\\repos\\kursova\\kursova\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|solutionrelative:kursova\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|c:\\users\\nyu\\source\\repos\\kursova\\kursova\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6966D791-62B4-47A8-BAD1-B712AF401EE7}|Kursova\\Kursova.csproj|solutionrelative:kursova\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Kursova\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Kursova\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:52:18.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "Kursova\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "Kursova\\Controllers\\TicketsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:35:36.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Services\\TicketService.cs",
+              "RelativeDocumentMoniker": "Kursova\\Services\\TicketService.cs",
+              "ToolTip": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Services\\TicketService.cs",
+              "RelativeToolTip": "Kursova\\Services\\TicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:35:11.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Repositories\\TicketRepository.cs",
+              "RelativeDocumentMoniker": "Kursova\\Repositories\\TicketRepository.cs",
+              "ToolTip": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Repositories\\TicketRepository.cs",
+              "RelativeToolTip": "Kursova\\Repositories\\TicketRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:34:45.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITicketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Repositories\\ITicketRepository.cs",
+              "RelativeDocumentMoniker": "Kursova\\Repositories\\ITicketRepository.cs",
+              "ToolTip": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Repositories\\ITicketRepository.cs",
+              "RelativeToolTip": "Kursova\\Repositories\\ITicketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:34:24.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Kursova\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Kursova\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:30:30.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Kursova\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Kursova\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:30:01.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Kursova\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Kursova\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAswGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:29:36.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Kursova\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Kursova\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:29:14.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ScreeningsController.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Controllers\\ScreeningsController.cs",
+              "RelativeDocumentMoniker": "Kursova\\Controllers\\ScreeningsController.cs",
+              "ToolTip": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Controllers\\ScreeningsController.cs",
+              "RelativeToolTip": "Kursova\\Controllers\\ScreeningsController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:26:59.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ScreeningService.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Services\\ScreeningService.cs",
+              "RelativeDocumentMoniker": "Kursova\\Services\\ScreeningService.cs",
+              "ToolTip": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Services\\ScreeningService.cs",
+              "RelativeToolTip": "Kursova\\Services\\ScreeningService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:26:22.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IScreeningRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Repositories\\IScreeningRepository.cs",
+              "RelativeDocumentMoniker": "Kursova\\Repositories\\IScreeningRepository.cs",
+              "ToolTip": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Repositories\\IScreeningRepository.cs",
+              "RelativeToolTip": "Kursova\\Repositories\\IScreeningRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:25:30.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ScreeningRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Repositories\\ScreeningRepository.cs",
+              "RelativeDocumentMoniker": "Kursova\\Repositories\\ScreeningRepository.cs",
+              "ToolTip": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Repositories\\ScreeningRepository.cs",
+              "RelativeToolTip": "Kursova\\Repositories\\ScreeningRepository.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAcwK4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:24:55.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Kursova\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Models\\Employee.cs",
+              "RelativeToolTip": "Kursova\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:21:32.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "Kursova\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Models\\Ticket.cs",
+              "RelativeToolTip": "Kursova\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:21:10.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HallService.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Services\\HallService.cs",
+              "RelativeDocumentMoniker": "Kursova\\Services\\HallService.cs",
+              "ToolTip": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Services\\HallService.cs",
+              "RelativeToolTip": "Kursova\\Services\\HallService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:17:57.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HallRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Repositories\\HallRepository.cs",
+              "RelativeDocumentMoniker": "Kursova\\Repositories\\HallRepository.cs",
+              "ToolTip": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Repositories\\HallRepository.cs",
+              "RelativeToolTip": "Kursova\\Repositories\\HallRepository.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:17:22.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IHallRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Repositories\\IHallRepository.cs",
+              "RelativeDocumentMoniker": "Kursova\\Repositories\\IHallRepository.cs",
+              "ToolTip": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Repositories\\IHallRepository.cs",
+              "RelativeToolTip": "Kursova\\Repositories\\IHallRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:16:30.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HallController.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Controllers\\HallController.cs",
+              "RelativeDocumentMoniker": "Kursova\\Controllers\\HallController.cs",
+              "ToolTip": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Controllers\\HallController.cs",
+              "RelativeToolTip": "Kursova\\Controllers\\HallController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:15:49.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hall.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Models\\Hall.cs",
+              "RelativeDocumentMoniker": "Kursova\\Models\\Hall.cs",
+              "ToolTip": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Models\\Hall.cs",
+              "RelativeToolTip": "Kursova\\Models\\Hall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:10:24.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Screening.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Models\\Screening.cs",
+              "RelativeDocumentMoniker": "Kursova\\Models\\Screening.cs",
+              "ToolTip": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Models\\Screening.cs",
+              "RelativeToolTip": "Kursova\\Models\\Screening.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T16:23:15.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Kursova\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Models\\Movie.cs",
+              "RelativeToolTip": "Kursova\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T15:13:19.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Repositories\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "Kursova\\Repositories\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Repositories\\MovieRepository.cs",
+              "RelativeToolTip": "Kursova\\Repositories\\MovieRepository.cs",
+              "ViewState": "AgIAABoBAAAAAAAAAAAuwC8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:43:58.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Repositories\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "Kursova\\Repositories\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Repositories\\IMovieRepository.cs",
+              "RelativeToolTip": "Kursova\\Repositories\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:42:11.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DbConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\DbConnectionFactory.cs",
+              "RelativeDocumentMoniker": "Kursova\\DbConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\DbConnectionFactory.cs",
+              "RelativeToolTip": "Kursova\\DbConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:39:00.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "Kursova\\Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Services\\MovieService.cs",
+              "RelativeToolTip": "Kursova\\Services\\MovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:27:33.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Program.cs",
+              "RelativeDocumentMoniker": "Kursova\\Program.cs",
+              "ToolTip": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\Program.cs",
+              "RelativeToolTip": "Kursova\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:29:51.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\appsettings.json",
+              "RelativeDocumentMoniker": "Kursova\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nyu\\source\\repos\\Kursova\\Kursova\\appsettings.json",
+              "RelativeToolTip": "Kursova\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T23:28:37.789Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
